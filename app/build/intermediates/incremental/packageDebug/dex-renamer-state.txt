@@ -1,0 +1,7 @@
+#Tue Sep 27 23:55:54 BST 2016
+base.0=/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d650b3e6c29594d301414c8c26e8009cab4a80c2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5c7d268461c6d8101fd336537d795cf6b33444f3/classes.dex
+base.1=/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5c7d268461c6d8101fd336537d795cf6b33444f3
+file.0=/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d650b3e6c29594d301414c8c26e8009cab4a80c2/classes.dex

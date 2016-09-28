@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/build/intermediates/res/merged/debug/drawable-xhdpi/multiply.png",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/src/main/res/drawable-xhdpi/multiply.png"
+    },
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/build/intermediates/res/merged/debug/drawable-xhdpi/add.png",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/src/main/res/drawable-xhdpi/add.png"
+    },
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/build/intermediates/res/merged/debug/drawable-xhdpi/divide.png",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/src/main/res/drawable-xhdpi/divide.png"
+    },
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/build/intermediates/res/merged/debug/drawable-xhdpi/equal.png",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/src/main/res/drawable-xhdpi/equal.png"
+    },
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/build/intermediates/res/merged/debug/drawable-xhdpi/subtract.png",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/src/main/res/drawable-xhdpi/subtract.png"
+    }
+]

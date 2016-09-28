@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_4223e599a45a55331f92460795b9163cee434450/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b187b7a4f88e89d18c387506de16b517d31901ee">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5c7d268461c6d8101fd336537d795cf6b33444f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_917cc3a94872eda36d254773429b9fc2fd1b3ef9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_66a4b60a2b171c94a04a68e2ee4934ab649c43f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_7b6d312e36072ce4c7f8fa7478e1bb7d327ebc80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9184dffeaf5d8845888e13696451041ce7ce941a">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d650b3e6c29594d301414c8c26e8009cab4a80c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_fc30f638b1cfbac7c9c17b0cca20ff4bafac0db0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Cool Calc/CoolCalc-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_6069a444129c3c5706d1013e933d6495e2550eac/classes.dex" />
+    </item>
+
+</items>
